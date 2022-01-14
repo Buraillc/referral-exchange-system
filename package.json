@@ -1,0 +1,23 @@
+{
+  "name": "referral-exchange-system",
+  "version": "1.0.0",
+  "description": "Regulatory compliance system to retrieve and exchange referral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buraillc/referral-exchange-system.git"
+  },
+  "author": "Burai L.L.C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buraillc/referral-exchange-system/issues"
+  },
+  "homepage": "https://github.com/Buraillc/referral-exchange-system#readme",
+  "keywords": [
+    "referral",
+    "exchange"
+  ]
+}
