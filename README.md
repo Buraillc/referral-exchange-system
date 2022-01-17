@@ -6,6 +6,6 @@ Regulatory compliance interoperable system to retrieve and exchange referral use
 
 
 # APIs 
- Health Gorilla Sandbox APIs are used in terms of interoperability doctors want to use.
+ Health Gorilla Sandbox APIs are used in terms of interoperability and user-friendly
 
 https://developer.healthgorilla.com/docs/patient360
